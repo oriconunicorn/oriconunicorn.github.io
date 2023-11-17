@@ -1,0 +1,28 @@
+FEEDBACK DATA:
+Name,Title,Rating,Date,Review,Pros,Cons,Category
+John Doe,Software Engineer,5,8/1/2023,Love the functionality and ease of use!,"Intuitive UI, great customer support",Minor bugs on macOS,Excellent
+Jane Smith,Product Manager,4,8/2/2023,Very helpful for our team's workflow.,"Integration with other tools, flexibility",Lacks a few features we wanted,Satisfactory: Feature Requests
+Robert Brown,IT Specialist,3,8/3/2023,It's decent but could be improved.,"Reliable performance, easy installation","Expensive, occasional crashes","Needs Improvement: Performance Issues, Cost Concerns"
+Lucy White,Data Analyst,4,8/4/2023,Great software but needs some tweaks.,"Efficient data processing, good documentation",Hard to understand error messages,Satisfactory: Usability Issues
+Michael Green,Team Lead,5,8/5/2023,Highly recommended for all teams!,"Smooth collaboration features, robust",None so far,Excellent
+Ella Black,Software Tester,2,8/6/2023,Too many bugs for my liking.,Decent UI,"Crashes often, hard to troubleshoot","Critical: Usability Issues, Performance Issues"
+Anna Johnson,DevOps Engineer,4,8/7/2023,Works seamlessly with our deployment pipeline.,Good integration with CI/CD tools,Needs better logging capabilities,Satisfactory: Feature Requests
+Sam Wilson,UX Designer,3,8/8/2023,The interface is a bit clunky.,Clean design,Some unintuitive UI choices,Needs Improvement
+Oliver Taylor,Database Admin,4,8/9/2023,"Handles data well, with few issues.","Efficient data retrieval, secure",Some issues with large data sets,Satisfactory
+Sophia Martinez,CIO,5,8/10/2023,A game-changer for our organization!,"Transformed our workflow, great ROI",A bit of a learning curve,Excellent
+Liam Thompson,Intern,3,8/11/2023,"Still learning, but seems okay.","Lots of online resources, community support",Overwhelming at first,Needs Improvement
+Mia Anderson,Software Consultant,4,8/12/2023,Clients seem to like it.,"Versatile, adaptable to many businesses",Occasional sync issues,Satisfactory
+Ethan Jackson,CEO,4,8/13/2023,"Great for business, with minor flaws.",Boosted team productivity,Could use more customization features,Satisfactory
+Isabella Lee,Project Manager,3,8/14/2023,"Good, but not the best out there.",Reliable for most projects,Lack of integration with other tools we use,Needs Improvement
+William Harris,Technical Writer,4,8/15/2023,Documentation is thorough and helpful.,Easy to reference guides,Some outdated sections,Satisfactory
+Aria Lewis,QA Engineer,2,8/16/2023,Too many issues in the recent version.,Decent rollback features,Latest update was very buggy,Critical
+Noah Clark,Researcher,5,8/17/2023,Helped in organizing and analyzing our data.,"Fast computations, intuitive analytics",Wish it had more visualization options,Excellent
+Emma Rodriguez,Academic,3,8/18/2023,"Good for general use, not for specifics.",Broad functionality,Missing niche features for academic research,Needs Improvement: Feature Requests
+Benjamin Walker,Sales Executive,5,8/19/2023,Easy to demonstrate to potential clients.,"Engaging interface, clear value prop",Slight issues with exporting reports,Excellent
+Olivia Turner,Student,4,8/20/2023,Used it for my thesis and it worked well.,Good for data collection,Struggled with advanced analytics,Satisfactory
+Lucas Young,App Developer,3,8/21/2023,Integration with mobile could be better.,Solid desktop version,Mobile version lags behind,Needs Improvement: Performance Issues
+Harper King,Analyst,4,8/22/2023,Overall a valuable tool for our team.,"Clear analytics, dashboards",Would like more customization in dashboard,Satisfactory
+James Wright,Startup Founder,5,8/23/2023,Exactly what our startup needed!,"Affordable, scalable",Had to reach out for some advanced setup queries,Excellent
+Charlotte Hill,Trainer,4,8/24/2023,Makes onboarding new users quite simple.,Interactive tutorials,Could use more depth in advanced topics,Satisfactory
+Levi Scott,Influencer,4,8/25/2023,Been promoting it to my tech followers.,"Slick and modern, audience loves it",Had some minor registration issues,Satisfactory
+Ava Baker,IT Manager,3,8/26/2023,"Not bad, but we've used better.","Reliable uptime, decent support",Lacks some administrative controls,Needs Improvement
