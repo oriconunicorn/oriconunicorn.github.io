@@ -1,0 +1,8 @@
+title: My GitHub Projects
+description: >- # this means to ignore newlines until "baseurl:"
+  This is my personal website hosted on GitHub Pages.
+baseurl: "" # the subpath of your site, e.g. "/blog"
+url: "https://oriconunicorn.github.io" # the base hostname & protocol for your site
+
+# Build settings
+theme: minima # or whatever theme you are using
